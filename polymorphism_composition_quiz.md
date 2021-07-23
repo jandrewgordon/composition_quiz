@@ -3,8 +3,14 @@
 # Polymorphism
 
 1. What does the ___word___ 'polymorphism' mean?
+    
+   Having many forms, or being able to change forms.
 
 2. What does it mean when we apply polymorphism to OO design? Give a simple Java example.
+
+   When applied to OO design, polymorphism describes the ability of class to be treated as many different types or classes at the same time. For example, an object    "car" could also be an "ownedCar" object in an Array List called "ownedCars". 
+   
+   
 
 3. What can we use to implement polymorphism in Java?
 
